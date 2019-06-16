@@ -17,7 +17,7 @@ enableGitInfo = true
   quality = 99
 
 [params]
-  description = "Blog by mcg (aka Marcelo Gonçalves) about programming, software architecture and game development."
+  description = "Blog by mcg<br/>(aka Marcelo Gonçalves)"
   homeMetaContent = "Blog by mcg (aka Marcelo Gonçalves) about programming, software architecture and game development."
   footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
   # For more date formats see https://gohugo.io/functions/format/
@@ -32,7 +32,7 @@ enableGitInfo = true
     weight = 1
   [[menu.nav]]
     name = "Blog"
-    url = "/post/"
+    url = "/blog/"
     weight = 2
   [[menu.nav]]
     name = "Tags"

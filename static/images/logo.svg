@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 152.7 100.7" style="enable-background:new 0 0 152.7 100.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{font-family:'CourierNewPS-BoldMT';}
+	.st2{font-size:23px;}
+</style>
+<path d="M2,0C0.9,0,0,0.9,0,1.9v88.3c0,1,0.9,1.9,1.9,1.9H28v-1.7H2c-0.1,0-0.3-0.1-0.3-0.2V1.9c0-0.1,0.1-0.2,0.2-0.2h148.8
+	c0.1,0,0.2,0.1,0.2,0.2v88.3c0,0.1-0.1,0.2-0.2,0.2h-27.4V92h27.4c1.1,0,1.9-0.9,1.9-1.9V1.9c0-1-0.9-1.9-1.9-1.9H2z"/>
+<rect x="5" y="40.8" class="st0" width="142.8" height="18"/>
+<text transform="matrix(1 0 0 1 5 55.3091)" class="st1 st2">$&gt;./mcg.sh</text>
+</svg>
