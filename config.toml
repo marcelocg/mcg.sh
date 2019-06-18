@@ -1,4 +1,4 @@
-baseURL = "mcg.sh"
+baseURL = "https://mcg.sh"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "mcg.sh < MCG | blog"
