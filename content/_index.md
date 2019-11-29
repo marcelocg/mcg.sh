@@ -10,5 +10,5 @@ Welcome to **mcg.sh**: A [blog](/blog/) written by **mcg** (aka me, Marcelo Gon√
 * Software architecture
 * Game development
 * Algorithms
-* Whatever may come into my list of interests
+* Whatever may come into my radar
 {{% /ticks %}}
