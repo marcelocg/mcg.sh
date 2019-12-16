@@ -1,0 +1,5 @@
+.breadcrumb__item::after {
+	display: block;
+	margin: 0 .3125rem;
+	content: "/";
+}

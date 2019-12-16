@@ -2,7 +2,8 @@ baseURL = "https://mcg.sh"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "mcg.sh < MCG | blog"
-theme = "cupper-hugo-theme"
+#theme = "cupper-hugo-theme"
+theme = "binario"
 googleAnalytics = "UA-1229396-9"
 disqusShortname = "mcg-sh"
 enableGitInfo = true
@@ -23,7 +24,30 @@ enableGitInfo = true
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
   codePenUser = "marcelocg"
+  customCSS = ["css/breadcrumb.css"]
   katex = true
+
+[Params.Featured]
+  previewOnly = false # Show only preview featured image
+
+[Params.Breadcrumb]
+  enable = true # Enable breadcrumb block globally
+  homeText = "/home/mcg" # Home node text
+
+[Params.Social]
+  email = "marcelocg@gmail.com"
+  twitter = "marcelocg"
+  instagram = "celocg"
+  linkedin = "marcelocg"
+  github = "marcelocg"
+  stackoverflow = "996049"
+  medium = "marcelocg"
+#  facebook = "username"
+#  telegram = "username"
+#  pinterest = "username"
+#  vk = "username"
+#  gitlab = "username"
+#  mastodon = "https://some.instance/@username"
 
 [menu]
   [[menu.nav]]
